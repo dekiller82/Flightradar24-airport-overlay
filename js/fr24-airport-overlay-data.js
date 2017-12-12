@@ -76,6 +76,19 @@ var fr24_airport_overlay_data = [
 		email: "",
 		date: 2014,
 		image: "CYYC.png"
+	},
+	{
+		neBoundLat: 52.3154,
+		neBoundLng: 4.7902,
+		swBoundLat: 51.08816,
+		swBoundLng: 52.3154,
+		name: "Amsterdam Airport Schiphol",
+		IATA: "AMS",
+		ICAO: "EHAM",
+		uploader: "mkyung",
+		email: "",
+		date: 2017,
+		image: "EHAM.png"
 	},	
 	/*
 	{
