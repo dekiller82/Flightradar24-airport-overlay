@@ -10,7 +10,7 @@ var fr24_airport_overlay_data = [
 		uploader: "mkyung",
 		email: "",
 		date: 2014,
-		image: "KJFK.png"
+		image: "EHAM.png"
 	},
 	{
 		neBoundLat: 42.0083,
